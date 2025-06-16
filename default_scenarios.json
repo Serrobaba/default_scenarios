@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Hızlı Tanıtım Filmi",
+    "data": {
+      "shots": [
+        "Dinamik Yaklaşma"
+      ]
+    }
+  },
+  {
+    "name": "Detaylı Gösterim Filmi",
+    "data": {
+      "shots": [
+        "Dinamik Yaklaşma",
+        "Sakin Yörünge"
+      ]
+    }
+  }
+]
