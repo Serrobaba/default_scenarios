@@ -1,18 +1,101 @@
 [
   {
-    "name": "Hızlı Tanıtım Filmi",
+    "name": "Sessiz Keşif",
     "data": {
       "shots": [
-        "Dinamik Yaklaşma"
+        "Kozmik Vals",
+        "Heykeltıraşın Dokunuşu",
+        "Sükunet Anı"
       ]
     }
   },
   {
-    "name": "Detaylı Gösterim Filmi",
+    "name": "Beklenmedik Misafir",
     "data": {
       "shots": [
-        "Dinamik Yaklaşma",
-        "Sakin Yörünge"
+        "Yerçekimsiz Duruş",
+        "Ani Vahiy",
+        "Kozmik Vals"
+      ]
+    }
+  },
+  {
+    "name": "Minimalist Manifesto",
+    "data": {
+      "shots": [
+        "Sükunet Anı",
+        "Odak Kayması",
+        "Tek Nokta Duruşu"
+      ]
+    }
+  },
+  {
+    "name": "Rüya Sekansı",
+    "data": {
+      "shots": [
+        "Fısıldayan Yankı",
+        "Yerçekimsiz Duruş",
+        "Ufka Süzülüş"
+      ]
+    }
+  },
+  {
+    "name": "Teknolojik Büyü",
+    "data": {
+      "shots": [
+        "Heykeltıraşın Dokunuşu",
+        "Ritmin Kırılışı",
+        "Ani Vahiy"
+      ]
+    }
+  },
+  {
+    "name": "Büyük Tanıtım",
+    "data": {
+      "shots": [
+        "Sükunet Anı",
+        "Ani Vahiy",
+        "Tek Nokta Duruşu"
+      ]
+    }
+  },
+  {
+    "name": "Zarif Metamorfoz",
+    "data": {
+      "shots": [
+        "Kozmik Vals",
+        "Odak Kayması",
+        "Heykeltıraşın Dokunuşu"
+      ]
+    }
+  },
+  {
+    "name": "Şiirsel Veda",
+    "data": {
+      "shots": [
+        "Yerçekimsiz Duruş",
+        "Sükunet Anı",
+        "Ufka Süzülüş"
+      ]
+    }
+  },
+  {
+    "name": "Asimetrik Güzellik",
+    "data": {
+      "shots": [
+        "Fısıldayan Yankı",
+        "Ritmin Kırılışı",
+        "Tek Nokta Duruşu"
+      ]
+    }
+  },
+  {
+    "name": "Odaklan ve Fethet",
+    "data": {
+      "shots": [
+        "Kozmik Vals",
+        "Odak Kayması",
+        "Tek Nokta Duruşu"
       ]
     }
   }
