@@ -1,101 +1,95 @@
 [
   {
-    "name": "Sessiz Keşif",
+    "name": "Minimalist Tanıtım",
     "data": {
       "shots": [
-        "Kozmik Vals",
-        "Heykeltıraşın Dokunuşu",
-        "Sükunet Anı"
+        "İkonik Duruş",
+        "Şiirsel Açılış"
       ]
     }
   },
   {
-    "name": "Beklenmedik Misafir",
+    "name": "Dinamik Keşif",
     "data": {
       "shots": [
-        "Yerçekimsiz Duruş",
-        "Ani Vahiy",
-        "Kozmik Vals"
+        "Keskin Vurgu",
+        "Hipnotik Yörünge",
+        "Tekinsiz Yaklaşım"
       ]
     }
   },
   {
-    "name": "Minimalist Manifesto",
+    "name": "Soyut Bale",
     "data": {
       "shots": [
-        "Sükunet Anı",
-        "Odak Kayması",
-        "Tek Nokta Duruşu"
+        "Sıfır Yerçekimi Valsi",
+        "Kadrajdan Kaçış",
+        "Şiirsel Açılış"
       ]
     }
   },
   {
-    "name": "Rüya Sekansı",
+    "name": "Güç Gösterisi",
     "data": {
       "shots": [
-        "Fısıldayan Yankı",
-        "Yerçekimsiz Duruş",
-        "Ufka Süzülüş"
+        "Sessiz Patlama",
+        "İkonik Duruş"
       ]
     }
   },
   {
-    "name": "Teknolojik Büyü",
+    "name": "Eksenler Arası Yolculuk",
     "data": {
       "shots": [
-        "Heykeltıraşın Dokunuşu",
-        "Ritmin Kırılışı",
-        "Ani Vahiy"
+        "Geometrik Senfoni",
+        "Işıkla Yontulmuş"
       ]
     }
   },
   {
-    "name": "Büyük Tanıtım",
+    "name": "Vurgu ve Zarafet",
     "data": {
       "shots": [
-        "Sükunet Anı",
-        "Ani Vahiy",
-        "Tek Nokta Duruşu"
+        "Keskin Vurgu",
+        "Sıfır Yerçekimi Valsi"
       ]
     }
   },
   {
-    "name": "Zarif Metamorfoz",
+    "name": "Açılış Seremonisi",
     "data": {
       "shots": [
-        "Kozmik Vals",
-        "Odak Kayması",
-        "Heykeltıraşın Dokunuşu"
+        "Şiirsel Açılış",
+        "Hipnotik Yörünge",
+        "İkonik Duruş"
       ]
     }
   },
   {
-    "name": "Şiirsel Veda",
+    "name": "Gerilim ve Sonuç",
     "data": {
       "shots": [
-        "Yerçekimsiz Duruş",
-        "Sükunet Anı",
-        "Ufka Süzülüş"
+        "Tekinsiz Yaklaşım",
+        "Sessiz Patlama"
       ]
     }
   },
   {
-    "name": "Asimetrik Güzellik",
+    "name": "Sonsuz Döngü",
     "data": {
       "shots": [
-        "Fısıldayan Yankı",
-        "Ritmin Kırılışı",
-        "Tek Nokta Duruşu"
+        "Hipnotik Yörünge",
+        "Geometrik Senfoni",
+        "Hipnotik Yörünge"
       ]
     }
   },
   {
-    "name": "Odaklan ve Fethet",
+    "name": "Kaçış Sanatı",
     "data": {
       "shots": [
-        "Kozmik Vals",
-        "Odak Kayması",
-        "Tek Nokta Duruşu"
+        "İkonik Duruş",
+        "Kadrajdan Kaçış"
       ]
     }
   }
